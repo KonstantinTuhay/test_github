@@ -5,7 +5,6 @@ export const App = () => {
     <div>
       <h1>App</h1>
       <Todo />
-      <p>Kostya Kostya</p>
     </div>
   );
 };
