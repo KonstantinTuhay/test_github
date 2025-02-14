@@ -7,6 +7,14 @@ function App() {
         neque praesentium corporis voluptatibus quibusdam nobis minima, officiis
         animi quod ab.
       </p>
+      <div className="class">
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur
+          minima laboriosam omnis amet facere aliquam id architecto placeat aut
+          officiis dolores, rerum ullam aspernatur earum! Fugiat optio deserunt
+          accusantium odio!
+        </p>
+      </div>
     </>
   );
 }
